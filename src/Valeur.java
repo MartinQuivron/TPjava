@@ -1,0 +1,11 @@
+public enum Valeur{
+  SALADE,
+  TOMATE,
+  OIGNON,
+  CHAMPIGNON,
+  PAIN_BURGER,
+  STEAK,
+  PATE_PIZZA,
+  FROMAGE,
+  SAUCISSE
+}
