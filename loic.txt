@@ -1,0 +1,2 @@
+in src : javac -d classes App.java
+in classes : java App
